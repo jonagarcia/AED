@@ -24,27 +24,27 @@ Diagrama de Flujo
   
   C
   
-  |
+    |
   
-  v
+    v
   
 Leer A
 
-  |
+    |
   
-  v
+    v
   
 Leer B
 
-  |
+    |
   
-  v
+    v
   
 Mostrar A+B
 
-  |
+    |
   
-  v
+    v
   
   F
   
