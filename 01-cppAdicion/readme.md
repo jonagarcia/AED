@@ -5,7 +5,7 @@
 ◦ Nombre. Jonatan Ariel
 • Número y título del trabajo. 01-Adicion
 •Transcripción del enunciado. Obtener del usuario dos números y mostrarle la suma.
-
+-------------------------------------------------------------------
 Pseudo Codigo:
 Declaraciones.
 Declaro n1
@@ -19,7 +19,7 @@ asignar n2
 sumar n1 + n2 = suma
 
 mostrar suma
-
+-------------------------------------------------------------------
 Diagrama de Flujo
   
   C
@@ -31,7 +31,6 @@ Diagrama de Flujo
 Leer A
 
     |
-  
     v
   
 Leer B
