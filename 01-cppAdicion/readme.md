@@ -21,16 +21,29 @@ sumar n1 + n2 = suma
 mostrar suma
 
 Diagrama de Flujo
+  
   C
+  
   |
+  
   v
 Leer A
+
   |
+  
   v
+  
 Leer B
+
   |
+  
   v
+  
 Mostrar A+B
+
   |
+  
   v
+  
   F
+  
