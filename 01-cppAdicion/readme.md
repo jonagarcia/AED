@@ -3,4 +3,5 @@
 ◦ Legajo. 159.998-7
 ◦ Apellido. Garcia
 ◦ Nombre. Jonatan Ariel
-• Número y título del trabajo. 01 Adicion
+• Número y título del trabajo. 01-Adicion
+•Transcripción del enunciado. Obtener del usuario dos números y mostrarle la suma.
