@@ -27,6 +27,7 @@ Diagrama de Flujo
   |
   
   v
+  
 Leer A
 
   |
